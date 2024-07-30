@@ -7,5 +7,5 @@ Database and Tools
 Postgre SQL
 PgAdmin4
 Schema- Music Store Database
-SCHEMA: MusicDatabaseSchema
-(C:\Users\sonam\OneDrive\Desktop\sql_project\MusicDatabaseSchema.png)
+![MusicDatabaseSchema](https://github.com/user-attachments/assets/bba33b8b-a248-4c4c-be79-98e975e4a6e2)
+
